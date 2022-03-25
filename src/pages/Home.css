@@ -1,0 +1,29 @@
+.title{
+    background-color: rgb(247, 245, 130);
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 10%;
+    width: 70%;
+    margin: 1.5rem;
+    padding: 1rem;
+    justify-content: space-between;
+    
+
+
+}
+.block{
+    background-color: rgb(182, 248, 143);
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 10%;
+    width: 70%;
+    margin: 1.5rem;
+    padding: 1rem;
+    justify-content: space-between;
+    border-radius: 3rem;
+  
+    
+
+}
